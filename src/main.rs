@@ -1,11 +1,8 @@
+#![allow(unused_imports)]
 use indicatif::ProgressStyle;
-// use std::fs::File;
-// use std::process::Output;
 use image;
 use image::ColorType;
 use nalgebra::{Point3, Vector3};
-// use std::thread;
-// use std::time::Duration;
 
 mod math;
 
